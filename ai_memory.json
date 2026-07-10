@@ -1,0 +1,57 @@
+[
+    {
+        "symbol": "EURUSD",
+        "decision": "BUY",
+        "confidence": 85,
+        "time": "2026-07-10 06:01:35.034061"
+    },
+    {
+        "symbol": "EURUSD",
+        "decision": "WAIT",
+        "confidence": 40,
+        "risk": "HIGH",
+        "time": "2026-07-10 06:03:45.247628"
+    },
+    {
+        "symbol": "EURUSD",
+        "decision": "WAIT",
+        "confidence": 40,
+        "risk": "HIGH",
+        "time": "2026-07-10 06:08:11.253569"
+    },
+    {
+        "symbol": "EURUSD",
+        "decision": "WAIT",
+        "confidence": 40,
+        "risk": "HIGH",
+        "time": "2026-07-10 06:15:07.235280"
+    },
+    {
+        "symbol": "EURUSD",
+        "decision": "WAIT",
+        "confidence": 40,
+        "risk": "HIGH",
+        "time": "2026-07-10 06:17:55.767451"
+    },
+    {
+        "symbol": "EURUSD",
+        "decision": "WAIT",
+        "confidence": 40,
+        "risk": "HIGH",
+        "time": "2026-07-10 06:32:58.097898"
+    },
+    {
+        "symbol": "EURUSD",
+        "decision": "WAIT",
+        "confidence": 40,
+        "risk": "HIGH",
+        "time": "2026-07-10 09:00:20.976434"
+    },
+    {
+        "symbol": "EURUSD",
+        "decision": "WAIT",
+        "confidence": 40,
+        "risk": "HIGH",
+        "time": "2026-07-10 09:02:50.818940"
+    }
+]
